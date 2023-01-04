@@ -1,0 +1,7 @@
+example.dk
+hello_world.dk
+
+compiler/frontend/tokenizer/a.out
+compiler/frontend/tokenizer/lex.yy.c
+
+build/
